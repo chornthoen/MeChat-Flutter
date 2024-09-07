@@ -87,7 +87,7 @@ class _CustomTextFieldChatState extends State<CustomTextFieldChat> {
                           color: AppColors.kColorGray500,
                         ),
                         contentPadding: const EdgeInsets.symmetric(
-                          vertical: 12,
+                          vertical: 8,
                           horizontal: 16,
                         ),
                         enabledBorder: OutlineInputBorder(

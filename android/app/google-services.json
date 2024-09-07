@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "397193841557",
+    "project_id": "mechat-flutter",
+    "storage_bucket": "mechat-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397193841557:android:2f8eb79dc60d90f661c49c",
+        "android_client_info": {
+          "package_name": "com.thoen.me_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0zRyAq2J01g1rbGdBuk53uzG94ApL9cM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

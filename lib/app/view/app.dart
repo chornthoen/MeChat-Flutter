@@ -5,6 +5,8 @@ import 'package:me_chat/l10n/l10n.dart';
 import 'package:me_chat/module/navigation/blocs/navigation_cubit.dart';
 import 'package:me_chat/router/router_app.dart';
 
+final navigatorKey = GlobalKey<NavigatorState>();
+
 class App extends StatelessWidget {
   const App({super.key});
 

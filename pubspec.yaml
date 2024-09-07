@@ -7,9 +7,13 @@ environment:
   sdk: ^3.4.0
 
 dependencies:
+  appwrite: ^12.0.1
   bloc: ^8.1.4
   cached_network_image: ^3.4.1
+  cloud_firestore: ^4.14.0
   equatable: ^2.0.5
+  firebase_auth: ^4.16.0
+  firebase_core: ^2.24.2
   flutter:
     sdk: flutter
   flutter_bloc: ^8.1.6
@@ -20,6 +24,8 @@ dependencies:
   go_router: ^14.2.7
   intl: ^0.19.0
   phosphor_flutter: ^2.1.0
+  provider: ^6.1.2
+  shared_preferences: ^2.3.2
 dev_dependencies:
   bloc_test: ^9.1.7
   flutter_test:

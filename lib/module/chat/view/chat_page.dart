@@ -58,7 +58,6 @@ class _ChatPageState extends State<ChatPage> {
                   borderRadius: BorderRadius.circular(10),
                 ),
                 child: Row(
-                  crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     const Image(
                       image: AssetImage('assets/images/search.png'),
